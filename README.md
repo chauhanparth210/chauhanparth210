@@ -38,6 +38,7 @@ Visit - [here](https://medium.com) to know more about me.<br>
 </a><br>
 -->
 
-### GIT Stats
+### Git Status
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanparth210&layout=compact&hide=html&theme=radical" alt="Parth Chauhan" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chauhanparth210&show_icons=true&theme=radical" alt="Parth Chauhan" /><br>

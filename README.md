@@ -22,7 +22,7 @@ Visit - [here](https://medium.com) to know more about me.<br>
 </a>
 <a href="https://github.com/chauhanparth210">
   <img align="left" alt="Aastha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a><br>
 <!--
 <a href="https://medium.com/@aasthamehta2704/">
 <img align="left" alt="Aastha's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -38,7 +38,7 @@ Visit - [here](https://medium.com) to know more about me.<br>
 </a><br>
 -->
 
-### Git Status
+## Git Status
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanparth210&layout=compact&hide=html&theme=radical" alt="Parth Chauhan" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chauhanparth210&show_icons=true&theme=radical" alt="Parth Chauhan" /><br>

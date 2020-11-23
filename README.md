@@ -2,7 +2,7 @@
 
 Glad to see you here! 🤩  
 
-📑: **Intro**:I am Parth Chauhan.<br>
+📑: **Intro**:`I am Parth Chauhan. Young and insane developer who loves JavaScript a lot.`<br>
 🏠: **From**: Jamnagar, Gujarat, India.<br>
 👩: **Edu & More**: B.Tech(2017 batch) from Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT).<br>
 ⚔️: **I Use**: I use JavaScript and everything as per the need of hour.<br>

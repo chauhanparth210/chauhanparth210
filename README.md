@@ -17,7 +17,7 @@ Glad to see you here! 🤩
 
 <a href="https://twitter.com/Parth_P_C">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
+</a> <br>
 
 
 ## Git Status

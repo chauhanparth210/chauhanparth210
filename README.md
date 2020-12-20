@@ -12,11 +12,15 @@ Glad to see you here! 🤩
 **Will be happy to Connect Here:**
 
 <a href="https://www.linkedin.com/in/parth-chauhan-984624193/">
-  <img align="left" alt="Parth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Parth's Linkdein" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/Parth_P_C">
-  <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Parth's Twitter" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a> 
+
+<a href="https://dev.to/parthpchauhan">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Parth Chauhan's DEV Profile" height="30" width="30">
 </a> <br>
 
 

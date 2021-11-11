@@ -1,5 +1,8 @@
 ### <h2> Hi, I'm Parth!👋 </h2>
 
+<p><em>Software Development Engineer at <a href="https://innovaccer.com/">Innovaccer Analytics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+
 ### A little more about me...  
 
 ```javascript

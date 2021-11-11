@@ -1,4 +1,4 @@
-## <h2> Hi, I'm Parth!👋 </h2>
+### <h2> Hi, I'm Parth!👋 </h2>
 
 ### A little more about me...  
 

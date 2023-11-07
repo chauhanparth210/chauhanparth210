@@ -1,22 +1,14 @@
-### <h2> Hi, I'm Parth!👋 </h2>
+### <h2> Hi, I'm Parth! </h2>
 
-<p><em>Software Development Engineer at <a href="https://innovaccer.com/">Innovaccer Analytics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em> An Enthusiastic Software Development ✌️
 </em></p>
-
-### A little more about me...  
 
 ```javascript
 const skills = {
-  web: [ HTML, CSS, Javascript],
+  web: [ HTML, CSS, Javascript, TypeScript, GraphQL, NodeJs],
   libraries: [React, Redux],
-  framework: [ExpressJS],
-  database: [MongoDB, Postgres],
-  others: [Docker, Git, GitHub]
+  framework: [ExpressJS, NestJs],
+  database: [MongoDB, PostgreSQL],
+  others: [Docker, Git, GitHub, Kubernetes, Postman, VSCode]
 }
 ```
-
-**Will be happy to Connect Here:**
-
-<a href="https://www.linkedin.com/in/parth-chauhan-984624193/">
-  <img align="left" alt="Parth's Linkdein" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
